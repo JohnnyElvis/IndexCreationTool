@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "IndexCreationTool": {
+      "commandName": "Project",
+      "commandLineArgs": "-d C:\\Temp\\00_PoC\\winget\\lol\\Test\\manifests -m C:\\Temp\\00_PoC\\winget\\lol\\Test -c C:\\Temp\\00_PoC\\winget\\data\\Cert_2023.pfx",
+      "workingDirectory": "C:\\Temp\\00_PoC\\winget\\lol\\wrkdir"
+    }
+  }
+}
